@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"concept.dtd">
+<concept id="hazelnut">
+  <title>Hazelnut</title>
+
+  <conbody>
+    <p>Hazelnuts are rich in protein and unsaturated fat. They also contain
+    significant amounts of manganese, copper, vitamin E, thiamine, and
+    magnesium.</p>
+
+    <p>This hazelnut or cobnut, the kernel of the seed, is edible and used raw
+    or roasted, or ground into a paste.</p>
+
+    <fig>
+      <image href="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hazelnuts_%28Corylus_avellana%29_-_whole_with_kernels.jpg/440px-Hazelnuts_%28Corylus_avellana%29_-_whole_with_kernels.jpg"/>
+
+      <image href="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Corylus_colurna_%281%29.JPG/440px-Corylus_colurna_%281%29.JPG"/>
+    </fig>
+
+    <p>Similar foods: pine nuts jaggary plums</p>
+  </conbody>
+</concept>

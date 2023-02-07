@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"concept.dtd">
+<concept id="parnship">
+  <title>Parsnip</title>
+
+  <conbody>
+    <p>Parsnip left in the ground to mature, it becomes sweeter in flavor
+    after winter frosts</p>
+
+    <p>Although some confusion exists between parsnips and carrots in the
+    literature of the time. It was used as a sweetener before the arrival of
+    cane sugar in Europe.</p>
+
+    <fig>
+      <image href="https://www.allrecipes.com/thmb/FBpzlDkBGve3sv9KkapC0gTJTw8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1221_MW021_jennifer-causey-2000-5776fb1d3586436bb7c4d1453da299f6.jpg"/>
+
+      <image href="https://stardewvalleywiki.com/mediawiki/images/2/21/Parsnip_Stage_5.png"/>
+    </fig>
+
+    <p>Similar foods: sage chili peppers bell peppers walnuts pecans</p>
+  </conbody>
+</concept>

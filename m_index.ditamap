@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN"
+"map.dtd">
+<map>
+  <title>Available Foods</title>
+
+  <topicref href="c_coconut.dita"/>
+
+  <topicref href="c_ginger.dita"/>
+
+  <topicref href="c_parsnip.dita"/>
+
+  <topicref href="c_hazelnut.dita"/>
+</map>
